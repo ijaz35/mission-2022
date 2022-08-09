@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container .left {
+    padding: 5%;
+    margin-left: 5%;
+}
+
+.half-width {
+    width: 50%
+}
+
+.half-width img {
+    width: 60%;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 33.2px 0px 0px 15px;
+}
+
+.orange {
+    color: #ffad5a;
+}
+
+.half-width p {
+    line-height: 1.5em;
+}
+
+.border-div {
+    width: 4px;
+    height: 90px;
+    margin-top: 41px;
+    background-color: tomato;
+    border-radius: 15px;
+
+}
+
+.explore-btn {
+    text-decoration: none;
+    background-color: #ff5959;
+    color: #ffffff;
+    padding: 15px 40px;
+    margin: 20px 0px;
+    display: inline-block;
+    border-radius: 10px;
+}
